@@ -1,4 +1,5 @@
-# falcons-api
+# Falcons API
+
 This is a great falcon worriors REST API developed using nestjs by Malindi John.
 
 To run this project, do the following few steps;
